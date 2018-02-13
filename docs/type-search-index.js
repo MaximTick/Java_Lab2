@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"by.belstu.it.Tickhonovich","l":"cc"},{"p":"by.belstu.it.Tickhonovich.basejava","l":"JavaTest"},{"p":"com.company","l":"Main"},{"p":"by.belstu.it.Tickhonovich","l":"TextFunction1"},{"p":"by.belstu.it.Tickhonovich.basejava","l":"WrapperString"}]

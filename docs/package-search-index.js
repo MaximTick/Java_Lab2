@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"by.belstu.it.Tickhonovich"},{"l":"by.belstu.it.Tickhonovich.basejava"},{"l":"com.company"}]
